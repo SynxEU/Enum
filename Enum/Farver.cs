@@ -12,6 +12,6 @@ namespace Enum
         Grøn,
         Blå,
         Gul,
-        Sort
+        Pink
     }
 }
